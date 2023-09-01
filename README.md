@@ -68,7 +68,7 @@ The data folder contains the
 - To detoxify a given sentence, refer [this](./scripts/detox.ipynb)
 
 Further,
--  To fine tune the BERT Model, refer [this](./scripts/fine_tune_bert.ipynb)http://moss.stanford.edu/results/5/6862770529437
+-  To fine tune the BERT Model, refer [this](./scripts/fine_tune_bert.ipynb)
 - To run the baseline model, refer [this](./scripts/baseline.ipynb)
 
 ## Models
